@@ -73,9 +73,5 @@ total revenue and customer count, and cards/charts for the same three views as t
 
 ## Screenshots
 
-*(add dashboard screenshots<img <img width="1012" height="617" alt="image" src="https://github.com/user-attachments/assets/1db95157-e8a4-4a19-8ece-48ce3f02ddac" />
- />
- here)*
+<img width="1012" height="617" alt="image" src="https://github.com/user-attachments/assets/1db95157-e8a4-4a19-8ece-48ce3f02ddac" />
 
-\
-```
