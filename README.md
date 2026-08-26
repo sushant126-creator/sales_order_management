@@ -77,7 +77,5 @@ total revenue and customer count, and cards/charts for the same three views as t
  />
  here)*
 
-```
-![Excel Dashboard](excel/dashboard_screenshot.png)
-![Power BI Dashboard](powerbi/powerbi_screenshot.png)
+\
 ```
